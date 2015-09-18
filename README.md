@@ -22,4 +22,4 @@ Serenity was created by and is maintained by **John van Zoggel**, Solution Archi
 
 ## Copyright and License
 
-Copyright 2013-2015 Eliteworks B.V. Code released under the [Apache 2.0](https://github.com/jvzoggel/serenity/LICENSE) license.
+Copyright 2013-2015 Eliteworks B.V. Code released under the [Apache 2.0](https://github.com/jvzoggel/Serenity/blob/master/LICENSE) license.
